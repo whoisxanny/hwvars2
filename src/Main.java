@@ -1,5 +1,16 @@
 public class Main {
     public static void main(String[] args) {
+
+
+
+
+
+
+
+
+
+
+
         byte cska = 127;
         System.out.println("Значение переменной - byte, " + " с типом - целочисленный, " + " равно = " + cska);
         short loko = 10000;
